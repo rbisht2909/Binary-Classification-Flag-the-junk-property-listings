@@ -12,6 +12,7 @@ Flagging a property as possibly junk before hand can help businesses prioritise 
 focus them on the more probable successes rather than bogged down with the weight of
 unsaleable portfolio .
 In this project we will be making use of data from such past operations where many properties
-were found to be junk after their purchase for renovations. Our task is to predict if a property is
+were found to be junk after their purchase for renovations. 
+Our task is to predict if a property is
 going to be unfit using its listing details and other features which are part of first preliminary
 assessment .
