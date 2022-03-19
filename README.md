@@ -18,3 +18,10 @@ were found to be junk after their purchase for renovations.
 Our task is to predict if a property is
 going to be unfit using its listing details and other features which are part of first preliminary
 assessment .
+
+Work on creating the machine learning models and choosing the one which gives the
+best performance.
+For this project, score will be calculated as:
+
+roc_auc score
+
